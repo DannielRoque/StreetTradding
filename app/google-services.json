@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63440679884",
+    "firebase_url": "https://tccstreet-bb02f.firebaseio.com",
+    "project_id": "tccstreet-bb02f",
+    "storage_bucket": "tccstreet-bb02f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63440679884:android:09205e75a1ba40c8",
+        "android_client_info": {
+          "package_name": "br.edu.fatecgarca.freetrading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63440679884-2okgdoblv2hedmvfgtitujk354avdqag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.fatecgarca.freetrading",
+            "certificate_hash": "b19af909348fd6fd7a949f2d19e56d8409743058"
+          }
+        },
+        {
+          "client_id": "63440679884-l2d8prkbrt9adtllq2rn6bli0a23jocn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH3cOirws1EwEAmQgzKkDt2A47jtEI3vU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63440679884-l2d8prkbrt9adtllq2rn6bli0a23jocn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
