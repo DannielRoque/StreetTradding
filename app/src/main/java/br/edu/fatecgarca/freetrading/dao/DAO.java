@@ -1,4 +1,4 @@
-package br.edu.fatecgarca.freetrading;
+package br.edu.fatecgarca.freetrading.dao;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,6 +6,10 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
 import java.util.ArrayList;
+
+import br.edu.fatecgarca.freetrading.modelo.Cliente;
+import br.edu.fatecgarca.freetrading.modelo.Produto;
+import br.edu.fatecgarca.freetrading.modelo.Venda;
 
 public class DAO {
 

@@ -1,14 +1,18 @@
-package br.edu.fatecgarca.freetrading;
+package br.edu.fatecgarca.freetrading.ui;
 
 //import android.content.Intent;
 //import android.support.annotation.NonNull;
-import android.support.v7.app.AppCompatActivity;
+
 import android.os.Bundle;
-//import android.text.TextUtils;
-//import android.view.View;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ProgressBar;
+
+import br.edu.fatecgarca.freetrading.R;
+
+//import android.text.TextUtils;
+//import android.view.View;
 //import android.widget.Toast;
 
 //import com.google.android.gms.tasks.OnCompleteListener;

@@ -1,4 +1,4 @@
-package br.edu.fatecgarca.freetrading;
+package br.edu.fatecgarca.freetrading.modelo;
 
 public class Cliente {
 

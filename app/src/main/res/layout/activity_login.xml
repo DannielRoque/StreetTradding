@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#E0DBDB"
     android:contentDescription="Logo_Login_Page"
-    tools:context=".LoginActivity">
+    tools:context=".ui.LoginActivity">
 
 
     <ProgressBar

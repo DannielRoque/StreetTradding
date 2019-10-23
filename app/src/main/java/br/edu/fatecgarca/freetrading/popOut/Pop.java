@@ -1,10 +1,12 @@
-package br.edu.fatecgarca.freetrading;
+package br.edu.fatecgarca.freetrading.popOut;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.view.Gravity;
 import android.view.WindowManager;
+
+import br.edu.fatecgarca.freetrading.R;
 
 public class Pop extends Activity {
     @Override

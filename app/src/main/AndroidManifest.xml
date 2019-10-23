@@ -11,13 +11,13 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".AdicionarClienteActivity"/>
+        <activity android:name=".ui.AdicionarClienteActivity"/>
         <activity
-                android:name=".LoginActivity"
+                android:name=".ui.LoginActivity"
                 android:screenOrientation="portrait"/>
-        <activity android:name=".AdicionarProdutoActivity"/>
+        <activity android:name=".ui.AdicionarProdutoActivity"/>
         <activity
-                android:name=".MainActivity"
+                android:name=".ui.MainActivity"
                 android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -25,17 +25,13 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".ProdutosActivity"/>
-        <activity android:name=".ClientesActivity"/>
-        <activity android:name=".PendenciasActivity"/>
+        <activity android:name=".ui.ProdutosActivity"/>
+        <activity android:name=".ui.ClientesActivity"/>
+        <activity android:name=".ui.PendenciasActivity"/>
         <activity
-                android:name=".Pop"
+                android:name=".popOut.Pop"
                 android:theme="@style/AppTheme.CustomThere"/>
-        <activity android:name=".EditarClientesActivity">
-        </activity>
-        <activity android:name=".EditarProdutosActivity">
-        </activity>
-        <activity android:name=".VendaActivity">
+        <activity android:name=".ui.VendaActivity">
         </activity>
     </application>
 

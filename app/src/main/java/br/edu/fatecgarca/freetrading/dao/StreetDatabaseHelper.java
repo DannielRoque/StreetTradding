@@ -1,4 +1,4 @@
-package br.edu.fatecgarca.freetrading;
+package br.edu.fatecgarca.freetrading.dao;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
